@@ -1,8 +1,8 @@
-# Fake News Detection
+# Convolutional News Filter
 
-Fake News Detection in Python
+This is a Fake News Detection tool built using Python
 
-In this project, we have used various natural language processing techniques and machine learning algorithms to classify fake news articles using sci-kit libraries from python. 
+In this project, I have used various natural language processing techniques and machine learning algorithms to classify fake news articles using sci-kit libraries from python. 
 
 ## Getting Started
 
@@ -168,4 +168,6 @@ $ git clone https://github.com/nishitpatel01/Fake_News_Detection.git
     - After hitting the enter, program will ask for an input which will be a piece of information or a news headline that you 	    	   want to verify. Once you paste or type news headline, then press enter.
 
     - Once you hit the enter, program will take user input (news headline) and will be used by model to classify in one of  categories of "True" and "False". Along with classifying the news headline, model will also provide a probability of truth associated with it.
+
+This project is inspired from Nishit Patel's Fake News detection tool.
 
